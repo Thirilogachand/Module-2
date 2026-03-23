@@ -30,10 +30,9 @@ for i in range(1,n+1):
     print(i)
 ```
 ### OUTPUT
-```
+
 <img width="914" height="595" alt="image" src="https://github.com/user-attachments/assets/ab28bac5-5fec-493e-9383-28771cb6a30a" />
 
-```
 ### RESULT
 ```
 The program display the n natural numbers using for loop.
