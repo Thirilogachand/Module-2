@@ -24,17 +24,21 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
+Reg.no: 212222060278
+Name: THIRILOGACHAND V
 
+str = int(input())
+x=oct(str)
+print(x)
 ```
 
 ### OUTPUT
 
-```
+<img width="628" height="370" alt="image" src="https://github.com/user-attachments/assets/d949fc01-a24b-4b6a-af4b-8e07fdb1870e" />
 
-```
 
 ### RESULT
 
 ```
-
+Thus the conversion of decimal number to octal number is executed successfully.
 ```
