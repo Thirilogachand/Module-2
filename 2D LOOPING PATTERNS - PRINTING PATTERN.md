@@ -35,7 +35,6 @@ for i in range(0,m):
     print(" "*i+"* "*(m-i))
 
 ```
-
 ### OUTPUT
 <img width="899" height="653" alt="image" src="https://github.com/user-attachments/assets/62101f30-b98c-4865-99bc-2b29de5b382c" />
 
